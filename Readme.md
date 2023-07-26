@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Аскар Яминов](https://up.htmlacademy.ru/adaptive/29/user/2304867).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей].(https://htmlacademy.ru/profile/id605037)
 
 ---
 
@@ -56,3 +56,5 @@ git clone SSH-адрес_вашего_форка
 
 [check-image]: https://github.com/htmlacademy-adaptive/2304867-cat-energy-29/workflows/Project%20check/badge.svg?branch=master
 [check-url]: https://github.com/htmlacademy-adaptive/2304867-cat-energy-29/actions
+
+
